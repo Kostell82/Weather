@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city">Выберите город:</string>
+    <string name="result">Узнать прогноз</string>
+    <string name="effect">Прогноз</string>
+
+    <string-array name="city_selection">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Сочи</item>
+        <item>Ростов</item>
+
+    </string-array>
+
+    <string-array name="effect">
+        <item>Днем +20, Ночью +15, дождь, ветер 4м/с ВСВ</item>
+        <item>Днем +25, Ночью +20, солнце, ветер 6м/с ЮВ</item>
+        <item>Днем +30, Ночью +25, солнце, ветер 1м/с СВ</item>
+        <item>Днем +23, Ночью +20, дождь, ветер 5м/с ЮЗ</item>
+
+    </string-array>
+</resources>
